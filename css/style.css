@@ -1,0 +1,40 @@
+body {
+	font-family: Georgia, Times New Roman, Times, serif;
+	font-color: #54340C;
+	background-color: #E7C532;
+}
+
+.navbar .navbar-nav {
+	display: inline-block;
+	float: none;
+}
+
+.navbar .navbar-collapse {}
+
+#page {
+	max-width: 600px;
+	border-style: solid;
+	border-width: 1px;
+	min-height: 1000px;
+	background-color: #F9EFC6;
+	padding: 50px;
+}
+
+#portfolio {
+	background-color: #677C4B;
+	border-style: solid;
+	border-width: 1px;
+	padding: 50px;
+}
+
+.btn {
+	background-color: #677C4B;
+}
+
+#contact {
+	max-width: 600px;
+}
+
+a {
+	color: #54340C;
+}
