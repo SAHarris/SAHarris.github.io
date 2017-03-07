@@ -1,6 +1,6 @@
 body {
 	font-family: Georgia, Times New Roman, Times, serif;
-	font-color: #54340C;
+	color: #54340C;
 	background-color: #E7C532;
 }
 
@@ -9,7 +9,11 @@ body {
 	float: none;
 }
 
-.navbar .navbar-collapse {}
+.thumbnail {
+	max-width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+}
 
 #page {
 	max-width: 600px;
@@ -24,7 +28,10 @@ body {
 	background-color: #677C4B;
 	border-style: solid;
 	border-width: 1px;
+	max-width: 500px;
 	padding: 50px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .btn {
